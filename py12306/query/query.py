@@ -154,7 +154,7 @@ class Query:
 
     def request_device_id2(self):
         headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
         }
         self.session.headers.update(headers)
         response = self.session.get(API_GET_BROWSER_DEVICE_ID)

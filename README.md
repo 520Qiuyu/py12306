@@ -1,4 +1,4 @@
-# 🚂 py12306 购票助手
+# 🚂 py12306 购票助手 备份
 分布式，多账号，多任务购票
 
 ## Features
@@ -17,7 +17,7 @@
 - [ ] 代理池支持 ([pyproxy-async](https://github.com/pjialin/pyproxy-async))
 
 ## 使用
-py12306 需要运行在 python 3.6 以上版本（其它版本暂未测试)
+py12306 需要运行在 python 3.6 以上版本（其它版本暂未测试) (3.6.8可用)
 
 **1. 安装依赖**
 ```bash
